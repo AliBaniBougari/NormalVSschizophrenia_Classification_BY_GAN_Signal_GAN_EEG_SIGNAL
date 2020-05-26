@@ -1,0 +1,9 @@
+keras==2.3.1
+tensorflow==2.1.0
+numpy==1.16.1
+tqdm==4.11.2
+pickle
+pyedflib
+os
+matplotlib==3.2.1
+sklearn
